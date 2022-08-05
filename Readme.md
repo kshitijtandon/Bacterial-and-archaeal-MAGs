@@ -1,4 +1,4 @@
-![](/Users/kshitij/Library/CloudStorage/OneDrive-TheUniversityofMelbourne/Desktop/Melbourne_work/UNIMEL_DP/Analysis/Bacterial-and-archaeal-MAGs/Coral.png)
+![](/Users/kshitij/Library/CloudStorage/OneDrive-TheUniversityofMelbourne/Desktop/Melbourne_work/UNIMEL_DP/Analysis/Bacterial-and-archaeal-MAGs/docs/Coral.png)
 
 ## Genomic diversity and functional potential of coral skeltal microbiome 
 
