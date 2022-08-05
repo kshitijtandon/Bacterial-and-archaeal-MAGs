@@ -1,4 +1,5 @@
-![BAC-ARC-MAGs](/Users/kshitij/Library/CloudStorage/OneDrive-TheUniversityofMelbourne/Desktop/Melbourne work/UNIMEL_DP/Analysis/Bacterial-and-archaeal-MAGs/Coral.png)
+![BAC-ARC-MAGs](/Users/kshitij/Library/CloudStorage/OneDrive-TheUniversityofMelbourne/Desktop/Melbourne_work/UNIMEL_DP/Analysis/Bacterial-and-archaeal-MAGs/Coral.png)
+
 ## Genomic diversity and functional potential of coral skeltal microbiome 
 
 This repository contains the scripts used to analyze data and create figures for the manuscript "Genomic view of the diversity and functional role of archaea and bacteria in the skeleton of the reef-building corals _Porites lutea_ and _Isopora palifera_"
