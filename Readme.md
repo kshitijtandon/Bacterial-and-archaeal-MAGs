@@ -1,12 +1,3 @@
----
-title: "Bacterial and Archaeal MAGs from Coral skeleton"
-output: html_document
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
 ## Genomic diversity and functional potential of coral skeltal microbiome 
 
 This repository contains the scripts used to analyze data and create figures for the manuscript "Genomic view of the diversity and functional role of archaea and bacteria in the skeleton of the reef-building corals _Porites lutea_ and _Isopora palifera_"
