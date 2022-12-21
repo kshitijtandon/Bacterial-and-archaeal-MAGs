@@ -7,6 +7,7 @@ This repository contains the scripts used to analyze data and create figures for
 Raw sequencing data are deposited in the NCBI Sequence Read Archive (SRA) under BioProject PRJNA857095.
 
 Complete workflow of this project and dataset is publicly available at 
-[FIGSHARE](https://melbourne.figshare.com/articles/dataset/Genomic_view_of_archaeal_and_bacterial_diversity_in_skeleton_of_coral_Porites_lutea_and_Isopora_palifera/20364108)
+[FIGSHARE](https://melbourne.figshare.com/articles/dataset/Genomic_view_of_archaeal_and_bacterial_diversity_in_skeleton_of_coral_Porites_lutea_and_Isopora_palifera/20364108) and [GigaDB](http://gigadb.org/dataset/102337#). The [GigaDB] dataset can be sited
+using the __DOI__ (http://dx.doi.org/10.5524/102337)
 
 
